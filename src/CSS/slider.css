@@ -1,0 +1,19 @@
+.alert-hotdeals {
+  width: 100%;
+  background-color: #171717;
+  color: white;
+  height: 80px;
+  line-height: 70px;
+  padding: 0px 15px;
+  font-size: larger;
+  border: none;
+  /* text-decoration: underline;
+  text-decoration-color: yellow;
+  text-underline-position: under;
+  text-decoration-style: solid;
+  text-decoration-thickness: 3px; */
+}
+.hot-deals-text {
+  border-bottom: 3px solid #ffe000;
+  padding: 0 0 4px;
+}

@@ -1,0 +1,14 @@
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+.alert {
+  margin-bottom: 0px;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 15px;
+  border: none;
+}
